@@ -1,3 +1,4 @@
+#Check
 import bpy
 import os
 bpy.ops.object.select_all(action='SELECT')
